@@ -1,3 +1,12 @@
+<?php
+
+	for($i = 0; $i < 100000000; $i++){
+		
+	}
+
+?>
+
+
 <!DOCTYPE HTML>
 <html lang="pt-br">
 	<head>
